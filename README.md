@@ -39,8 +39,8 @@ Users should be able to:
 
 ### Links
 
-- [Solution on GitHub](https://github.com/Lasse-Rodal/fylo-landing-page)
-- [Live Site on GitHub Pages](https://lasse-rodal.github.io/fylo-landing-page/)
+- [Solution on GitHub][(https://github.com/Lasse-Rodal/fylo-landing-page)](https://github.com/Lasse-Rodal/Fylo-dark-theme-landing-page-Frontend-Mentor-Challenge)
+- [Live Site on GitHub Pages](https://lasse-rodal.github.io/Fylo-dark-theme-landing-page-Frontend-Mentor-Challenge/)
 
 ## My process
 
